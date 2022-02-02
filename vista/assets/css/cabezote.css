@@ -1,0 +1,42 @@
+.cabezote{
+    height: 56px;
+    width: 100%;
+    padding: 10px;
+}
+
+.icono{
+    font-size: 24px;
+
+}
+
+.imagen{
+
+    height: 36px;
+    width: 36px;
+}
+
+.logo{
+
+    font-family: 'Dongle', sans-serif;
+    font-size: 24px;
+}
+
+.boton{
+
+    border-radius: 16px;
+    background-color: #419895;
+    color: white;
+    height: 32px;
+    width: 137px;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+    filter: drop-shadow(0px 2px 2px rgba(0,0,0,0.25));
+}
+
+._icono{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
